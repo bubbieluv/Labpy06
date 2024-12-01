@@ -53,6 +53,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
  3. Jika data ditemukan, akan mencetak pesan konfirmasi. Jika tidak, akan mencetak pesan bahwa data tidak ditemukan.
 
 # Flowchart
+![flowchart labpy06](https://github.com/user-attachments/assets/1779c99b-d880-48a2-9de0-c6c7b0d69703)
 
 # Latihan 11
 Ubahlah kode dibawah ini menjadi fungsi menggunakan lambada import math
