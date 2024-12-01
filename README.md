@@ -17,6 +17,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 ![Screenshot 2024-12-01 100429](https://github.com/user-attachments/assets/06c3fa25-692c-4f83-8801-67aa56a2ee10)
 
 # Menu Tambah Data
+![Screenshot 2024-12-01 100947](https://github.com/user-attachments/assets/c597ab6e-d3ed-4295-89ec-1b845bbf76d3)
 
  1. Fungsi ini menerima dua parameter: nama dan nilai.
 
@@ -25,6 +26,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
  3. Setelah menambahkan data, fungsi akan mencetak pesan konfirmasi.
 
 # Menu Tampilkan Data
+![Screenshot 2024-12-01 101138](https://github.com/user-attachments/assets/dac6aaa2-6c92-4932-9b53-5498f9034fe4)
 
  1. Fungsi ini menampilkan semua data mahasiswa yang tersimpan dalam list.
 
@@ -33,6 +35,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
  3. Jika ada data, fungsi ini akan mencetak daftar mahasiswa beserta nilainya dengan nomor urut.
 
 # Menu Hapus Data
+![Screenshot 2024-12-01 101245](https://github.com/user-attachments/assets/30cc66ff-f0db-4ea8-8078-d70f02860cf4)
 
  1. Fungsi ini menghapus data mahasiswa berdasarkan nama yang diberikan.
 
@@ -41,6 +44,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
  3. Jika ada perubahan dalam jumlah mahasiswa, maka data mahasiswa diupdate dan akan mencetak pesan konfirmasi. Jika tidak, akan mencetak pesan bahwa data tidak ditemukan.
 
 # Menu Ubah Data
+![Screenshot 2024-12-01 101433](https://github.com/user-attachments/assets/2ff038c5-72a3-45a7-b894-687e76824230)
 
  1. Fungsi ini digunakan untuk mengubah nilai mahasiswa berdasarkan nama.
 
