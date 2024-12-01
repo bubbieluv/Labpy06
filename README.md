@@ -65,3 +65,5 @@ def c(*args): return sum(args)/len(args)
 
 def d(s): return "".join(set(s))
 
+![Screenshot 2024-12-01 110724](https://github.com/user-attachments/assets/de1b0ae7-e230-431f-8288-d2766dd78637)
+
